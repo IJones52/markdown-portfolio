@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# A list of things i'd rather do now
+- Sleep
+- Sleep
+- Also Sleep
